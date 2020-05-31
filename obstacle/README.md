@@ -1,0 +1,1 @@
+This folder contains the files required to plot the visibility polyhedron for a single obstacle, the obstacle considered here is a cube, but the obstacle can be varied using user defined functions or default functions.
